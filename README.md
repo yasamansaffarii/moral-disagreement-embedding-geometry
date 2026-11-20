@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="teaser.png" alt="Human disagreement leaves a measurable signature in embedding geometry" width="100%">
+</p>
+
+<h1 align="center">When Moral Judgment Becomes Structurally Ambiguous</h1>
+
+<p align="center">
+  Human Disagreement Leaves a Signature in Sentence-Embedding Geometry
+</p>
 # Moral Disagreement in Embedding Geometry
 
 **When Moral Judgment Becomes Structurally Ambiguous: Human Disagreement Leaves a Signature in Sentence-Embedding Geometry**
