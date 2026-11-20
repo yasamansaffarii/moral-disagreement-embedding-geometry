@@ -1,0 +1,11 @@
+Repository package prepared from the submitted-study analysis notebooks.
+
+Source notebooks:
+- Mapper_Final_All_Hypotheses_Verdicts_(1)(1).ipynb
+- Mapper_Bayesian_BF10_FollowUp(2).ipynb
+
+Renamed repository notebooks:
+- notebooks/01_main_analysis.ipynb
+- notebooks/02_bayesian_followup.ipynb
+
+Notebook code content was preserved; only repository organization and filenames were changed.
