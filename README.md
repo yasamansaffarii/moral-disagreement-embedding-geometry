@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="teaser.png" alt="Human disagreement leaves a measurable signature in embedding geometry" width="100%">
+  <img src="teaser.png" alt="Human Disagreement leaves a measurable signature in embedding geometry" width="100%">
 </p>
 
 <h1 align="center">When Moral Judgment Becomes Structurally Ambiguous</h1>
